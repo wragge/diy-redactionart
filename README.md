@@ -14,7 +14,7 @@ As part of the exhibition, I turned selected images into badges and temporary ta
 
 ![Tattoo](https://dl.dropbox.com/s/k7nhwepx8h79vme/IMG_0715.jpg)
 
-The SVG files I created are all available in this repository for you to download and use in your own #redactionart projects. 
+The [SVG files](svgs/) I created are all available in this repository for you to download and use in your own #redactionart projects. 
 
 Full file references are included to enable you to correctly cite each #redactionart image. The image filenames also include the file barcode and page number.
 
@@ -23,6 +23,8 @@ To make your own badges, simply upload the SVGs to your preferred laser cutting 
 For the tattoos I used [StrayTats](https://www.straytats.com/). I had to fill in the SVG outline and save as a JPG for upload.
 
 If you make use of these files please share them using the #redactionart tag.
+
+**Have fun!**
 
 | Page reference | Original image | SVG outline |
 |------|------|------|
