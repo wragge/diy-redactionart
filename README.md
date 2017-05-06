@@ -1,18 +1,20 @@
 # DIY #redactionart
 
-The images below are drawn from a collection of #redactionart discovered in ASIO surveillance files held by the National Archives of Australia in 2016. You can explore the [entire collection of #redactionart](https://owebrowse.herokuapp.com/redactions/tags/art/) here.
+The images in this repository are drawn from a collection of #redactionart discovered in ASIO surveillance files held by the National Archives of Australia in 2016. You can explore the [entire collection of #redactionart](https://owebrowse.herokuapp.com/redactions/tags/art/) here.
 
-The story of this discovery [unfolded on Twitter](https://storify.com/wragge/redaction-art). There's more information in [my research notebook](http://timsherratt.org/research-notebook/projects/immigration-recordkeeping-and-surveillance/), and in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
+The story of this discovery [was told on Twitter](https://storify.com/wragge/redaction-art). There's more information in [my research notebook](http://timsherratt.org/research-notebook/projects/immigration-recordkeeping-and-surveillance/), and in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
+
+In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) as part of 'Beauties and Beasts' at the Belconnen Arts Centre. 
 
 ![Redaction Zoo](https://dl.dropbox.com/s/yhmr4bz8fk6xq2m/IMG_0720.jpg)
 
-In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) as part of 'Beauties and Beasts' at the Belconnen Arts Centre. As part of the exhibition, I turned the images selected below into badges and temporary tattoos.
+As part of the exhibition, I turned selected images into badges and temporary tattoos.
 
 ![Badges](https://dl.dropbox.com/s/hp1u29a1ejgao37/IMG_0713.jpg)
 
 ![Tattoo](https://dl.dropbox.com/s/k7nhwepx8h79vme/IMG_0715.jpg)
 
-The SVG files I created are all available here for you to download and use in your own #redactionart. 
+The SVG files I created are all available in this repository for you to download and use in your own #redactionart projects. 
 
 Full file references are included to enable you to correctly cite each #redactionart image. The image filenames include the file barcode and page number, so you can also use these details to find the originals in the National Archives.
 
