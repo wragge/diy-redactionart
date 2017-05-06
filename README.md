@@ -22,7 +22,7 @@ To make your own badges, simply upload the SVGs to your preferred laser cutting 
 
 For the tattoos I used [StrayTats](https://www.straytats.com/). I had to fill in the SVG outline and save as a JPG for upload.
 
-If you make use of these files please share them using the #redactionart tag.
+If you make use of these files please share them using the [#redactionart](https://twitter.com/search?q=%23redactionart) tag (you could also star this repository).
 
 **Have fun!**
 
