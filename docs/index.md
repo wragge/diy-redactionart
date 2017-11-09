@@ -1,6 +1,6 @@
 # #redactionart
 
-In 2016 while investigating the practice of redaction in ASIO surveillance files held by the National Archives of Australia, I discovered a collection of #redactionart. You can explore the [entire collection of #redactionart](https://owebrowse.herokuapp.com/redactions/tags/art/) here.
+In 2016 while investigating the practice of redaction in ASIO surveillance files held by the National Archives of Australia, I discovered a collection of #redactionart. You can explore the [entire collection](https://owebrowse.herokuapp.com/redactions/tags/art/) here.
 
 The story of this discovery [was told on Twitter](https://storify.com/wragge/redaction-art). There's more information in [my research notebook](http://timsherratt.org/research-notebook/projects/immigration-recordkeeping-and-surveillance/), and in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
 
@@ -9,9 +9,9 @@ In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) 
 <iframe src="https://player.vimeo.com/video/215976633" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/215976633">The Redaction Zoo</a> from <a href="https://vimeo.com/wragge">Tim Sherratt</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-![Redaction Zoo](https://dl.dropbox.com/s/yhmr4bz8fk6xq2m/IMG_0720.jpg)
-
 As part of the exhibition, I turned selected images into badges and temporary tattoos.
+
+<div class="storify"><iframe src="//storify.com/wragge/redactionart/embed?header=false&border=false&template=slideshow" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/wragge/redactionart.js?header=false&border=false&template=slideshow"></script>
 
 ![Badges](https://dl.dropbox.com/s/hp1u29a1ejgao37/IMG_0713.jpg)
 
