@@ -11,7 +11,7 @@ In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) 
 
 As part of the exhibition, I turned selected images into badges and temporary tattoos.
 
-<div class="storify"><iframe src="//storify.com/wragge/redactionart/embed?header=false&border=false&template=slideshow" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/wragge/redactionart.js?header=false&border=false&template=slideshow"></script>
+<div class="storify"><iframe src="//storify.com/wragge/redactionart/embed?header=false&border=false&template=slideshow" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/wragge/redactionart.js?header=false&border=false&template=slideshow"></script></div>
 
 ![Badges](https://dl.dropbox.com/s/hp1u29a1ejgao37/IMG_0713.jpg)
 
