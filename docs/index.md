@@ -6,6 +6,9 @@ The story of this discovery [was told on Twitter](https://storify.com/wragge/red
 
 In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) as part of 'Beauties and Beasts' at the Belconnen Arts Centre.
 
+<iframe src="https://player.vimeo.com/video/215976633" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/215976633">The Redaction Zoo</a> from <a href="https://vimeo.com/wragge">Tim Sherratt</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ![Redaction Zoo](https://dl.dropbox.com/s/yhmr4bz8fk6xq2m/IMG_0720.jpg)
 
 As part of the exhibition, I turned selected images into badges and temporary tattoos.
