@@ -1,6 +1,6 @@
 # The #redactionart story
 
-#### In 2016 while investigating the practice of redaction in [ASIO surveillance files](https://github.com/wragge/asio-files) held by the National Archives of Australia, I discovered a collection of #redactionart. You can explore the [entire collection](https://owebrowse.herokuapp.com/redactions/tags/art/) online.
+##### In 2016 while investigating the practice of redaction in [ASIO surveillance files](https://github.com/wragge/asio-files) held by the National Archives of Australia, I discovered a collection of #redactionart. You can explore the [entire collection](https://owebrowse.herokuapp.com/redactions/tags/art/) online.
 
 The story of this discovery [was told on Twitter](https://storify.com/wragge/redaction-art). There's more information in [my research notebook](http://timsherratt.org/research-notebook/projects/immigration-recordkeeping-and-surveillance/), and in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
 
@@ -20,4 +20,4 @@ The SVG files are all available [in this repository](https://github.com/wragge/d
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ASIO <a href="https://twitter.com/hashtag/redactionart?src=hash&amp;ref_src=twsrc%5Etfw">#redactionart</a> dress is finished, and it is absolutely the greatest thing I own. <a href="https://t.co/mtLOzubhPP">pic.twitter.com/mtLOzubhPP</a></p>&mdash; Bonnie Wildie (@BonnieWildie) <a href="https://twitter.com/BonnieWildie/status/874166580900274176?ref_src=twsrc%5Etfw">June 12, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### The creation, discovery, display, and reuse of #redactionart is a reminder that the processes that limit our access to information are human in their operation and design. There is nothing magical about the ‘secrets’ locked away in government archives.
+##### The creation, discovery, display, and reuse of #redactionart is a reminder that the processes that limit our access to information are human in their operation and design. There is nothing magical about the ‘secrets’ locked away in government archives.
