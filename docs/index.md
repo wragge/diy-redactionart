@@ -2,7 +2,7 @@
 
 ##### In 2016 while investigating the practice of redaction in [ASIO surveillance files](https://github.com/wragge/asio-files) held by the National Archives of Australia, I discovered a collection of #redactionart. You can explore the [entire collection](https://owebrowse.herokuapp.com/redactions/tags/art/) online.
 
-The story of this discovery [was told on Twitter](https://storify.com/wragge/redaction-art). There's more information in [my research notebook](http://timsherratt.org/research-notebook/projects/immigration-recordkeeping-and-surveillance/), and in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
+The story of this discovery [was told on Twitter](http://wke.lt/w/s/mhjyH). There's more information in [my research notebook](http://timsherratt.org/research-notebook/projects/immigration-recordkeeping-and-surveillance/), and in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
 
 In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) as part of 'Beauties and Beasts' at the Belconnen Arts Centre.
 
@@ -15,7 +15,7 @@ As part of the exhibition, I turned selected images into badges and temporary ta
 
 The SVG files are all available [in this repository](https://github.com/wragge/diy-redactionart) for you to download and use in your own #redactionart projects.
 
-\#redactionart has since been turned into [cookie cutters](https://www.thingiverse.com/thing:2379810), a [dress](https://twitter.com/BonnieWildie/status/874166580900274176), [iPhone cases, and t-shirts](https://www.redbubble.com/people/misskoko/collections/741004-redactionart). The story of its [escape into the physical world](https://storify.com/wragge/redactionart) continues to unfold.
+\#redactionart has since been turned into [cookie cutters](https://www.thingiverse.com/thing:2379810), a [dress](https://twitter.com/BonnieWildie/status/874166580900274176), [iPhone cases, and t-shirts](https://www.redbubble.com/people/misskoko/collections/741004-redactionart). The story of its [escape into the physical world](http://wke.lt/w/s/HOrk1) continues to unfold.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">ASIO <a href="https://twitter.com/hashtag/redactionart?src=hash&amp;ref_src=twsrc%5Etfw">#redactionart</a> dress is finished, and it is absolutely the greatest thing I own. <a href="https://t.co/mtLOzubhPP">pic.twitter.com/mtLOzubhPP</a></p>&mdash; Bonnie Wildie (@BonnieWildie) <a href="https://twitter.com/BonnieWildie/status/874166580900274176?ref_src=twsrc%5Etfw">June 12, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
