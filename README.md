@@ -2,19 +2,23 @@
 
 The images in this repository are drawn from a collection of #redactionart discovered in ASIO surveillance files held by the National Archives of Australia in 2016. You can explore the [entire collection of #redactionart](https://owebrowse.herokuapp.com/redactions/tags/art/) here.
 
-The story of this discovery [was told on Twitter](http://wke.lt/w/s/mhjyH). There's more information in [my research notebook](http://timsherratt.org/research-notebook/projects/immigration-recordkeeping-and-surveillance/), and in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
+The story of this discovery [was told on Twitter](http://wke.lt/w/s/mhjyH). There's more information in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
 
 In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) as part of 'Beauties and Beasts' at the Belconnen Arts Centre.
 
 ![Redaction Zoo](https://dl.dropbox.com/s/yhmr4bz8fk6xq2m/IMG_0720.jpg)
 
-As part of the exhibition, I turned selected images into badges and temporary tattoos.
+In 2021, I updated my redaction finder and reprocessed all the available ASIO files, finding some more #redactionart in the process. This is described in ['Secrets and lives'](https://updates.timsherratt.org/2021/04/21/secrets-and-lives.html), a video I presented at the (Re)Create Symposium.
+
+By tracing the original JPG images, I've created a series of [SVG files](svgs/). I used these to create badges and temporary tattoos.
 
 ![Badges](https://dl.dropbox.com/s/hp1u29a1ejgao37/IMG_0713.jpg)
 
 ![Tattoo](https://dl.dropbox.com/s/k7nhwepx8h79vme/IMG_0715.jpg)
 
-The [SVG files](svgs/) I created are all available in this repository for you to download and use in your own #redactionart projects. Creative people have already turned \#redactionart into [cookie cutters](https://www.thingiverse.com/thing:2379810), a [dress](https://twitter.com/BonnieWildie/status/874166580900274176), and [iPhone cases, and t-shirts](https://www.redbubble.com/people/misskoko/collections/741004-redactionart). The story of its [escape into the physical world](http://wke.lt/w/s/HOrk1) continues to unfold.
+All of the SVG images are available in this repository for you to download and use in your own #redactionart projects.
+
+Creative people have already turned \#redactionart into [cookie cutters](https://www.thingiverse.com/thing:2379810), a [dress](https://twitter.com/BonnieWildie/status/874166580900274176), and [iPhone cases, and t-shirts](https://www.redbubble.com/people/misskoko/collections/741004-redactionart). The story of its [escape into the physical world](http://wke.lt/w/s/HOrk1) continues to unfold.
 
 Full file references are included to enable you to correctly cite each #redactionart image. The image filenames also include the file barcode and page number.
 
