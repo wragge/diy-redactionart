@@ -1,5 +1,7 @@
 # DIY #redactionart
 
+## The story
+
 The images in this repository are drawn from a collection of #redactionart discovered in ASIO surveillance files held by the National Archives of Australia in 2016. You can explore the [entire collection of #redactionart](https://owebrowse.herokuapp.com/redactions/tags/art/) here.
 
 The story of this discovery [was told on Twitter](http://wke.lt/w/s/mhjyH). There's more information in [Turning the inside out](https://dx.doi.org/10.6084/m9.figshare.4055013), a keynote I gave to the annual conference of the Australian Society of Archivists in 2016.
@@ -7,6 +9,8 @@ The story of this discovery [was told on Twitter](http://wke.lt/w/s/mhjyH). Ther
 In 2017, I exhibited [The Redaction Zoo](https://vimeo.com/wragge/redactionart) as part of 'Beauties and Beasts' at the Belconnen Arts Centre.
 
 In 2021, I updated my redaction finder and reprocessed all the available ASIO files, finding some more #redactionart in the process. This is described in [Secrets and lives](https://updates.timsherratt.org/2021/04/21/secrets-and-lives.html), a video I presented at the (Re)Create Symposium.
+
+## The images
 
 By tracing the original JPG images, I've created a series of [SVG files](svgs/). I used these to create badges and temporary tattoos.
 
